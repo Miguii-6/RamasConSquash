@@ -8,5 +8,7 @@ public class Main {
        //main B
 
         //merge con squash de colaborador
+
+        //merge con squash de lider
     }
 }
